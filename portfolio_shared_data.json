@@ -69,6 +69,11 @@
           "level": "65"
         },
         {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "65"
+        },
+        {
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
