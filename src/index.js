@@ -7,8 +7,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 /* GLOBAL VARIABLES */
 
-window.$primaryLanguage = 'es';
-window.$secondaryLanguage = 'en';
+window.$primaryLanguage = 'en';
+window.$secondaryLanguage = 'pl';
 window.$primaryLanguageIconId = 'primary-lang-icon';
 window.$secondaryLanguageIconId = 'secondary-lang-icon';
 
