@@ -73,9 +73,9 @@
       {
         "company": "DefOpenSource",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "8.2020 - hoy",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
           "REST API",
@@ -85,12 +85,11 @@
           "MDBootstrap",
           "EF Core",
           ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "SignalR"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "Alfalmind",
         "title": "Intern",
         "years": "01.2018 - 09.2019",
         "mainTech": [
