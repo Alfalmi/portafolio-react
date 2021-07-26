@@ -12,7 +12,17 @@
           "name": "instagram",
           "url": "https://www.instagram.com/pinofloyd/?hl=es",
           "class": "fab fa-instagram"
-        }
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/pinooxd/",
+          "class": "fab fa-facebook"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/Ipnoflyod",
+          "class": "fab fa-twitter"
+        },
       ],
       "image": "myProfile.jpg"
     },
