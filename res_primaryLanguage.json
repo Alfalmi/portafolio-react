@@ -11,13 +11,13 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "Calculadora",
+        "startDate": "2021",
         "description": "Calculadora hecha con React",
         "images": [
           "images/portfolio/calculadorajs.png"
         ],
-        "url": "",
+        "url": "https://alfalmi.com/js-react-calculator/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -34,14 +34,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Drumpad Machine",
+        "startDate": "2021",
+        "description": "Drumpad hecho con React y AWS storage",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/d-pad.png"
         ],
-        "url": "https://github.com",
+        "url": "https://alfalmi.com/drumpad-machine/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -54,14 +53,13 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Reloj Pomodoro",
+        "startDate": "2021",
+        "description": "Reloj Pomodoro o 25+5 hecho con react",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/pomodoro.png"
         ],
-        "url": "https://github.com",
+        "url": "https://alfalmi.com/pomodoroReact/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
