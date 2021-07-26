@@ -58,16 +58,12 @@
         "url": "https://alfalmi.com/pomodoroReact/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
         ]
       }
@@ -76,9 +72,9 @@
       {
         "company": "DefOpenSource",
         "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "years": "8.2020 - today",
         "mainTech": [
-          "Angular 8/9/10"
+          "React "
         ],
         "technologies": [
           "REST API",
@@ -86,8 +82,7 @@
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "EF Core"
         ]
       },
       {
