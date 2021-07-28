@@ -91,7 +91,7 @@
       {
         "title": "Drum App",
         "startDate": "2021",
-        "description": "Aplicacion que emula y graba los sonidos de una bateria hecho con React",
+        "description": "Aplicacion que emula y graba los sonidos de una bateria hecho con React y AWS Storage",
         "images": [
           "images/portfolio/drum.png"
         ],

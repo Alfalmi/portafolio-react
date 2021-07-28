@@ -32,7 +32,7 @@
       {
         "title": "Drumpad Machine",
         "startDate": "2021",
-        "description": "Drumpad machine made with React js",
+        "description": "Drumpad machine made with React and AWS Storage",
         "images": [
           "images/portfolio/d-pad.png"
         ],
@@ -91,7 +91,7 @@
       {
         "title": "Drum App",
         "startDate": "2021",
-        "description": "Application that emulates and records the sounds of a drum made with React",
+        "description": "Application that emulates and records the sounds of a drum made with React and AWS Storage",
         "images": [
           "images/portfolio/drum.png"
         ],
