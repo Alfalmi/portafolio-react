@@ -73,9 +73,9 @@
         "startDate": "2021",
         "description": "Simple reproductor de audio hecho con react",
         "images": [
-          "images/portfolio/pomodoro.png"
+          "images/portfolio/audioplayer.png"
         ],
-        "url": "https://alfalmi.com/pomodoroReact/",
+        "url": "https://alfalmi.com/music-player-react/",
         "technologies": [
           {
             "class": "devicon-react-original",
