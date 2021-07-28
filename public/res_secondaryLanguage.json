@@ -66,6 +66,30 @@
             "name": "TypeScript"
           }
         ]
+      },
+      {
+        "title": "Audio Player",
+        "startDate": "2021",
+        "description": "Simple audio player made with React.",
+        "images": [
+          "images/portfolio/audioplayer.png"
+        ],
+        "url": "https://alfalmi.com/music-player-react/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-fontawesome-plain",
+            "name": "FontAwesome"
+          }
+          
+        ]
       }
     ],
     "experience": [
