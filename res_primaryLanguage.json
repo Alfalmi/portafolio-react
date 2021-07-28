@@ -131,21 +131,21 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Freelance",
         "title": "Front-End Developer",
-        "years": "8.2020 - hoy",
+        "years": "8.2020 - today",
         "mainTech": [
           "React"
         ],
         "technologies": [
           "REST API",
           "RxJS",
+          "HTML5",
+          "CSS3",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR"
+          "MDBootstrap"
+          
         ]
       },
       {
