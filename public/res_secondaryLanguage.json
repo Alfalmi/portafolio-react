@@ -32,7 +32,7 @@
       {
         "title": "Drumpad Machine",
         "startDate": "2021",
-        "description": "Drumpad machine made with React js",
+        "description": "Drumpad machine made with React and AWS Storage",
         "images": [
           "images/portfolio/d-pad.png"
         ],
@@ -83,10 +83,47 @@
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
+          }
+          
+          
+        ]
+      },
+      {
+        "title": "Drum App",
+        "startDate": "2021",
+        "description": "Application that emulates and records the sounds of a drum made with React and AWS Storage",
+        "images": [
+          "images/portfolio/drum.png"
+        ],
+        "url": "https://alfalmi.com/drum-machine/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-fontawesome-plain",
-            "name": "FontAwesome"
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Weather App",
+        "startDate": "2021",
+        "description": "Weather app made with Javascript and the Openweather API hecho con Javascript y la API OpenWeather",
+        "images": [
+          "images/portfolio/weatherapp.png"
+        ],
+        "url": "https://alfalmi.com/weather-app-owmapi/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
           }
           
         ]
