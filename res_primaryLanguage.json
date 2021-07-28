@@ -87,6 +87,26 @@
           }
           
         ]
+      },
+      {
+        "title": "Drum App",
+        "startDate": "2021",
+        "description": "Aplicacion que emula y graba los sonidos de una bateria hecho con React",
+        "images": [
+          "images/portfolio/drum.png"
+        ],
+        "url": "https://alfalmi.com/drum-machine/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+          
+        ]
       }
     ],
     "experience": [
