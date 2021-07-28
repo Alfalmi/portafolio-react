@@ -12,7 +12,7 @@
     "projects": [
       {
         "title": "Calculadora",
-        "startDate": "2021",
+        "startDate": "2020",
         "description": "Calculadora hecha con React",
         "images": [
           "images/portfolio/calculadorajs.png"
@@ -64,6 +64,30 @@
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Reproductor de Audio",
+        "startDate": "2021",
+        "description": "Simple reproductor de audio hecho con react",
+        "images": [
+          "images/portfolio/audioplayer.png"
+        ],
+        "url": "https://alfalmi.com/music-player-react/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-fontawesome-plain",
+            "name": "FontAwesome"
           }
           
         ]
